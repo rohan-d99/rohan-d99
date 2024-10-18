@@ -4,6 +4,6 @@ A Frontend Developer and self-taught UI/UX Designer with experience in JavaScrip
 
 - 🧰 Currently Working with TypeScript, React, Next.js, TailwindCSS, Shadcn, Figma, Framer etc.  
 - 🔍 Currently exploring new Design tools, Frontend, and Blockchain technologies.
-- 🎨 Explore my Design work: [Dribbble](https://dribbble.com/Rohan_UI9)
-- 🌐 [Portfolio](https://rohan-deshpande.webflow.io/)
+- 🎨 Explore my [Design work](https://dribbble.com/Rohan_UI9)
+- 🌐 My [Portfolio](https://rohan-deshpande.webflow.io/)
 - 📧 Reach me out: rohand9.tech@gmail.com
